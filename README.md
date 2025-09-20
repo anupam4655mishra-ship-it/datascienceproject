@@ -1,3 +1,3 @@
 # datascienceproject
 This is my first git reposetory.
-Author - Anupam Mishra
+Author - Anupam Mishra(from philomath)
